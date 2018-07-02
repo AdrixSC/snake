@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+}
+
+#container {
+    border: 2px solid purple;
+    height: 600px;
+    margin-top: 20px;
+    width: 600px;
+}
